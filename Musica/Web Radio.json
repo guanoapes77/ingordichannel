@@ -7,9 +7,9 @@
       "links": [
         {
           "url": "http://icecast.unitedradio.it/Virgin.mp3",
-          "quality":"mp3"
-        }
-      ]
+          "quality":"mp3" 
+          }
+          ]
     },
     {
       "title": "RTL Radiofreccia",
@@ -51,9 +51,31 @@
       "links": [      
         {
           "url": "http://144.217.233.87:9008/;",
+          "quality":"mp3" 
+          }
+      ]
+    },
+    {
+      "title": "100hitz - Rock",
+      "year": "2019",
+      "poster": "https://static.radio.it/images/broadcasts/56/78/120612/1/c300.png",
+      "links": [      
+        {
+          "url": "http://173.244.215.162:8240/;stream",
+          "quality":"mp3"  
+           }
+      ]
+    },
+    {
+      "title": "Rai Radio Kids",
+      "year": "2019",
+      "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+      "links": [      
+        {
+          "url": "http://icestreaming.rai.it/11.mp3",
           "quality":"mp3"        
         }  
       ]
     }
   ]
-}      
+}    
